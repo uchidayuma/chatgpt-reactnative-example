@@ -1,6 +1,15 @@
+# ReactNativeでChatGPTを動かすサンプル
 
-### 配色
-[配色](https://colorhunt.co/palette/f9f7f7dbe2ef3f72af112d4e)
+## 解説
+[打田裕馬のYoutube]()
 
-### プロンプト管理
-/helpers/prompt.tsxで全て管理# chatgpt-reactnative-example
+## 使い方
+ - `git clone https://github.com/uchidayuma/chatgpt-reactnative-example.git`
+ - `cd chatgpt-reactnative-example`
+ - `npm install`
+ - app/(tabs)/index.tsxのAPI_KEYを自分のAPI_KEYに変更
+ - `expo start`
+ - Enter your message
+
+## 各種リンク
+[OpenAI APIページ](https://platform.openai.com/account/usage)
