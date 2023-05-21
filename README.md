@@ -1,7 +1,7 @@
 # ReactNativeでChatGPTを動かすサンプル
 
 ## 解説
-[打田裕馬のYoutube]()
+[打田裕馬のYoutube](https://www.youtube.com/watch?v=8GsOWixyT8A)
 
 ## 使い方
  - `git clone https://github.com/uchidayuma/chatgpt-reactnative-example.git`
